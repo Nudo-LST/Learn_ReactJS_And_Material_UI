@@ -1,0 +1,86 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
+.one {
+  background: url(https://images.pexels.com/photos/7585532/pexels-photo-7585532.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=2);
+  display: flex;
+  min-height: 100vh;
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  flex-direction: column;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.two {
+  width: 100%;
+  height: 582px;
+  background: #64646400;
+  background-image: linear-gradient(180deg, #662d2d00, #000000);
+}
+
+.three {
+  height: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.four {
+  width: 80%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.five {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.six {
+  text-decoration: none;
+  color: #ffffff;
+  display: block;
+  padding: 10px;
+  border: 1.5px solid white;
+}
+
+.seven {
+  display: flex;
+  gap: 10px;
+  flex-direction: row;
+  align-items: center;
+  flex-grow: 5;
+  justify-content: center;
+}
+
+.eight {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.ten {
+  flex-direction: column;
+  align-items: center;
+  padding: 79px 0px;
+}
+
+.eleven {
+  background: #928c97a3;
+}
+
+.twelve {
+  text-decoration: none;
+  color: rgb(255 255 255);
+  display: block;
+  padding: 10px;
+  border: 1.5px solid white;
+}

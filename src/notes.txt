@@ -1,0 +1,6 @@
+To pass a function to a child component from a parent component you wil need to pass the funtion as a props and have an anonymuis functio around it
+like:
+()=>{functionName}
+the function name needs to be defined in the parent component that is calling it.
+Source :
+https://stackoverflow.com/questions/50086590/how-to-pass-an-event-handler-as-a-prop-in-react#:~:text=You%27re%20not%20using,Working%20example%20here.
